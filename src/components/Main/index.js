@@ -1,6 +1,5 @@
 import React from 'react';
 
-import background from './../../assets/FeaturedCoverImage.png'
 import MovieInfo from './MovieInfo';
 import Treding from '../Treding';
 
