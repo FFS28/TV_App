@@ -9,7 +9,7 @@ const Avatar = ({expanded}) => {
                 <div className='avatar-img'>
                     <img src={avatar} />
                 </div>
-                <p>Daniel</p>
+                <p>Daniel Patil</p>
             </>}
         </div>
     );
