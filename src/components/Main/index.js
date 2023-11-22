@@ -13,6 +13,7 @@ const Main = () => {
                     <img src={require(`./../../assets/${json_data.Featured.CoverImage}`)} />
                     <MovieInfo data={json_data.Featured}/>
                 </div>
+                This is test
             </div>
             <Treding data={json_data.TendingNow} />
         </div>
