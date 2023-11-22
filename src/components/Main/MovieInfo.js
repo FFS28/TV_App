@@ -9,6 +9,7 @@ const MovieInfo = ({data}) => {
             <p>{data.ReleaseYear} {data.MpaRating} {Math.floor(parseInt(data.Duration) / 3600)}h {Math.floor((parseInt(data.Duration) / 60) % 60)}m</p>
             <p>
                {data.Description}
+               This is project is TV app and My first model for CI/CD
             </p>
             <div className='btn-group'>
                 <div class="play">Play</div>
